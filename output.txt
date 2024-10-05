@@ -1,0 +1,4 @@
+Amount of Pasteurized Milk: 800
+Amount of Raw Milk: 115
+Amount of Organic Cheese greater than 41%: 53
+Most Common Animal: Cow
